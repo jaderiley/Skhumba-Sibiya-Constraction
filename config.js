@@ -213,6 +213,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us what is going on.",
     contactLead:  "Send through the details and we will reply on WhatsApp, usually quickly.",
-    contactPlaceholder: "e.g. burst pipe in kitchen, geyser leaking, blocked toilet"
+    contactPlaceholder: "e.g. burst pipe in kitchen, geyser leaking, blocked toilet",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Burst pipe <em>right now?</em>",
+    ctaBannerSub:   "One call and a plumber is on the way — emergencies welcome."
   }
 };
